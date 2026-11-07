@@ -1,28 +1,43 @@
-# Olá, eu sou o André Gonçalves da Silva 👋
+Hi there! 👋 I am an undergraduate student in Computer Engineering at Universidade Católica Dom Bosco (UCDB) with a strong foundation in both software and hardware. Currently, I act as a Research Scholar at the Inovisão Laboratory, building Artificial Intelligence and Computer Vision models to solve real-world challenges, from precision agriculture to infrastructure mapping.
 
-**Desenvolvedor | Machine Learning & Visão Computacional | Engenharia de Computação**
+## ⚙️ Tech Stack & Skills
 
-Transformo dados em modelos que resolvem problemas reais — e código em soluções que funcionam na prática. Sou estudante de Engenharia de Computação na UCDB e Técnico em Informática (IFMS). Atualmente, sou Pesquisador Bolsista no laboratório Inovisão, desenvolvendo projetos de IA aplicados a desafios do mundo real, como o manejo agrícola.
+### 🧠 AI & Computer Vision (Current Focus)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🔭 O que eu faço no dia a dia
-- **Visão Computacional & Deep Learning:** Classificação e detecção de imagens com PyTorch.
-- **Arquiteturas Modernas:** Trabalho prático com CNNs e Transformers.
-- **Pesquisa & Dados:** Redução de dimensionalidade, Aprendizado Ativo (Active Learning) e pipelines de experimentação.
-- **Hardware & Embarcados:** Integração de software com o mundo físico usando Arduino, ESP32, controle PID e eletrônica digital — visão completa, do sensor ao modelo.
+### 🔌 Hardware & Embedded Systems
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-### 💻 Stack e Ferramentas
-- **Linguagens:** Python, C/C++, Java, JavaScript, PHP, SQL
-- **Machine Learning:** PyTorch, Pandas, Scikit-learn
-- **Infra e Ferramentas:** Git, Linux, Docker, MySQL, LaTeX/Overleaf
+### 💻 Software & Web Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🏆 Destaques e Trajetória
-- **1º lugar na FECIOESTE 2023**, com histórico em robótica autônoma e matemática aplicada.
-- Acostumado a resolver problemas sob pressão, otimizando tanto o código quanto a lógica matemática por trás dele.
+### 🛠️ Data, DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🎯 O que busco
-Estou em busca de oportunidades (estágio ou júnior) em **Machine Learning, Visão Computacional e IA**. Também tenho forte interesse em desenvolvimento Full Stack e Engenharia de Software. Meu foco principal é construir sistemas inteligentes que aprendem, veem e decidem.
+## 📚 Education
+- **BSc in Computer Engineering** – Universidade Católica Dom Bosco (UCDB) *(Expected 2028)*
+- **Integrated Technical Degree in IT** – Instituto Federal de MS (IFMS) *(2021 – 2023)*
 
-### 📫 Vamos conversar?
-- 🌐 **Portfólio:** [andregsilva.vercel.app](https://andregsilva.vercel.app/)
-- 📧 **E-mail:** andregsilva.eng@gmail.com
-- 📍 **Localização:** Campo Grande – MS | **Inglês:** B1 (MET)
+## 🔬 Experience & Highlights
+- **Research Scholar (FUNDECT) @ Inovisão Lab:** Developing Deep Learning models for soybean pest classification (Active Learning) and object detection pipelines for the Bioceanic Route infrastructure.
+- **🏆 1st Place at FECIOESTE 2023:** Awarded for Autonomous Robotics development.
+- **End-to-End Projects:** From building modular Smart Parking IoT systems to developing full-stack Open Finance dashboards.
+- **Former Technical Intern @ IFMS:** Prototyping, 3D printing (Fusion 360), and network support.
+
+## 📞 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white)](https://andregsilva.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) *(Coloque seu link aqui)*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andregsilva.eng@gmail.com)
