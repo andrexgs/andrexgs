@@ -56,4 +56,4 @@ Hi there! 👋 I am an undergraduate student in Computer Engineering at Universi
 ## 📞 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white)](https://andregsilva.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregoncalvesdasilva/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) andregsilva.eng@gmail.com
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) andregsilva.eng@gmail.com
